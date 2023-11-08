@@ -1,3 +1,9 @@
 " place your custom init.vim here!
 colorscheme onedark
-set tabstop=4 softtabstop=4 shiftwidth=4 expandtab smarttab autoindent
+set tabstop=4 
+set softtabstop=4 
+set shiftwidth=4 
+set expandtab 
+set smarttab 
+set autoindent
+
