@@ -21,7 +21,7 @@
     "plugin_mini-vim" = {
       url = "github:echasnovski/mini.nvim";
       flake = false;
-    }
+    };
   };
 
   outputs = { self, nixpkgs, flake-utils, ... }@inputs:
