@@ -18,6 +18,10 @@
       url = "github:lewis6991/gitsigns.nvim";
       flake = false;
     };
+    "plugin_mini-vim" = {
+      url = "github:echasnovski/mini.nvim";
+      flake = false;
+    }
   };
 
   outputs = { self, nixpkgs, flake-utils, ... }@inputs:
